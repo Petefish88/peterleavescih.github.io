@@ -7,9 +7,9 @@ header:
 gallery2:
   - url: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/community_3_resized.jpg
     image_path: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/community_3_resized.jpg
-  - url: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/community_3_resized.jpg
+  - url: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/nkf2.jpg
     image_path: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/nkf2.jpg
-  - url: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2019-01/community_3_resized.jpg
+  - url: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2018-12/jury_neu_resized.jpg
     image_path: https://www.cyberinnovationhub.de/sites/default/files/styles/teaser_2x/public/2018-12/jury_neu_resized.jpg
 ---
 
