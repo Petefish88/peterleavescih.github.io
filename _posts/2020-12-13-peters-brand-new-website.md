@@ -1,20 +1,11 @@
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
+---
+author: "Peter Lewerenz"
+layout: "single"
+---
 
 
 # Blah blah
 
 ## mehr blahblah
 
-![](ihttps://github.com/peterleavescih/peterleavescih.github.io/raw/main/75446841.jpeg)
+![](https://github.com/peterleavescih/peterleavescih.github.io/raw/main/75446841.jpeg)
