@@ -26,6 +26,8 @@ gallery2:
 
 ## Komischer Soldatentyp
 
+  * externer Link
+
 ![](https://github.com/peterleavescih/peterleavescih.github.io/raw/main/75446841.jpeg)
 
 
@@ -41,4 +43,10 @@ print("hello world")
 
 ## Beispiel-Galerie
 
-{% include gallery id="gallery2" caption="Example Images from CIH Site." %} 
+{% include gallery id="gallery2" caption="Example Images from CIH Site." %}
+
+## Beispiel-GIF
+
+  * interner Link
+
+![](/assets/images/spongebob.gif) 
