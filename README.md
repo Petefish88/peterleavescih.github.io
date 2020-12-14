@@ -12,11 +12,11 @@ Hallo Peter, das hier ist deine Webseite, die du zu deinem Abschied aufpimpen mu
 ## HowTo
 
   * In der `_config.yml` kannst du grundsätzliche Einstellungen für die Seite vornehmen
-  * Die `_index.html` enthält das Template für die Startseite
+  * Die `index.html` enthält das Template für die Startseite wird aber zum Großteil aus der `_config.yml` konfiguriert
   * Im Ordner `_posts` befindet sich der erste Beispielpost an dem du dich orientieren kannst
 
 ## Help
 
-Wenn du Hilfe brauchst, scheiß herrfeder mit Issues zu.
+Wenn du Hilfe brauchst, scheiß https://github.com/herrfeder mit Issues zu.
 
 ## Viel Spaß :)
