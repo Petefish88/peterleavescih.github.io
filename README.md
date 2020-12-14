@@ -1,5 +1,7 @@
 # peterleavescih.github.io
 
+![](https://github.com/peterleavescih/peterleavescih.github.io/raw/main/fuckyou.gif)
+
 ## Introduction
 
 Hallo Peter, das hier ist deine Webseite, die du zu deinem Abschied aufpimpen musst. Die Seite hat folgende Spezifikation:
